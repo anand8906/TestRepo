@@ -1,4 +1,5 @@
 initial commit of test file 1
 updating from github-repos-other
 updates from branch1
-another update and commit from branch2
+another update and commit from branch1
+yet another update and commit from branch1
